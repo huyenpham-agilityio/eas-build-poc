@@ -1,4 +1,4 @@
-package com.huyenpham_agilityio.easpoc
+package com.huyenpham_agilityio.easbuildpoc
 
 import android.app.Application
 import android.content.res.Configuration

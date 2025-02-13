@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "easpoc.app"
-               BlueprintName = "easpoc"
-               ReferencedContainer = "container:easpoc.xcodeproj">
+               BuildableName = "easbuildpoc.app"
+               BlueprintName = "easbuildpoc"
+               ReferencedContainer = "container:easbuildpoc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "easpocTests.xctest"
-               BlueprintName = "easpocTests"
-               ReferencedContainer = "container:easpoc.xcodeproj">
+               BuildableName = "easbuildpocTests.xctest"
+               BlueprintName = "easbuildpocTests"
+               ReferencedContainer = "container:easbuildpoc.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "easpoc.app"
-            BlueprintName = "easpoc"
-            ReferencedContainer = "container:easpoc.xcodeproj">
+            BuildableName = "easbuildpoc.app"
+            BlueprintName = "easbuildpoc"
+            ReferencedContainer = "container:easbuildpoc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "easpoc.app"
-            BlueprintName = "easpoc"
-            ReferencedContainer = "container:easpoc.xcodeproj">
+            BuildableName = "easbuildpoc.app"
+            BlueprintName = "easbuildpoc"
+            ReferencedContainer = "container:easbuildpoc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

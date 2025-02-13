@@ -86,9 +86,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.huyenpham_agilityio.easpoc'
+    namespace 'com.huyenpham_agilityio.easbuildpoc'
     defaultConfig {
-        applicationId 'com.huyenpham_agilityio.easpoc'
+        applicationId 'com.huyenpham_agilityio.easbuildpoc'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

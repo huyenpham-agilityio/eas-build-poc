@@ -21,7 +21,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
   }
 }
 
-rootProject.name = 'eas-poc'
+rootProject.name = 'eas-build-poc'
 
 dependencyResolutionManagement {
   versionCatalogs {

@@ -1,4 +1,4 @@
-package com.huyenpham_agilityio.easpoc
+package com.huyenpham_agilityio.easbuildpoc
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build
