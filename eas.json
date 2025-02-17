@@ -5,11 +5,11 @@
   },
   "build": {
     "development": {
+      "node": "20.18.2",
       "developmentClient": true,
-      // iOS builds where developmentClient is set to true on the build profile should always be distributed as internal. If you are distributing for TestFlight, you have to set the distribution to store.
       "distribution": "internal",
-      "ios": {
-        "simulator": true
+      "android": {
+        "buildType": "apk"
       }
     },
     "preview": {
